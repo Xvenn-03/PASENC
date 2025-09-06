@@ -1,5 +1,5 @@
 # PASENC
-PASENC is a python encryptor that makes python scripts immutable but still executable.
+PASENC is a python encryptor that makes python scripts immutable but still executable, I made this script so that programmers who upload their scripts on GitHub wont be recoded by other people. 
 
 Screenshots
 ----
@@ -8,11 +8,11 @@ Screenshots
 Installation
 ----
 
-Preferably, you can download StreamFlow by cloning the [Git](https://github.com/Xvenn-03/PASENC) repository:
+Preferably, you can download PASENC by cloning the [Git](https://github.com/Xvenn-03/PASENC.git) repository:
 
-    git clone https://github.com/Xvenn-03/StreamFlow
+    https://github.com/Xvenn-03/PASENC.git
 
-StreamFlow works out of the box with [Python](https://www.python.org/download/) 
+PASENC works out of the box with [Python](https://www.python.org/download/) 
 
 instaling library / module?
 
@@ -25,10 +25,10 @@ Usage
 
 To get a list of basic options and switches use:
 
-    python StreamFlow.py -h
+    python pasenc.py
 
 Example:
 
-    python StreamFlow.py https:example.com -t 100 -d 100 -to 10 -o example.json
+    nothing im lazy
 
-Havefun and stay safe
+Havefun guys
