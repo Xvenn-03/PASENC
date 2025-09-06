@@ -18,7 +18,9 @@ instaling library / module?
 
     pip -r install requirements.txt
 
-wait until instaling library / module
+if error you can paste di command di terminal
+
+    pip install colorama
 
 Usage
 ----
